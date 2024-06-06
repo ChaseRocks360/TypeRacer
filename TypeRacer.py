@@ -6,7 +6,7 @@ import pyautogui
 
 
 # Defining Opera Drivers Path
-driver = webdriver.operagx(operagxdriver-0.10)
+driver = webdriver.Chrome(chromedriver-py==114.0.5735.90)
 
 
 # Opening Website
